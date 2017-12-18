@@ -1,6 +1,5 @@
 require 'sinatra'
 
 get '/'do
-return "hohohoh"
-
+return "pushing to herku"
 end
